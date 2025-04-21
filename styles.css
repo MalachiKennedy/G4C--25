@@ -16,6 +16,9 @@ body * {
   h4 {
     font-weight: bold;
   }
+  h1{
+      color: white;
+  }
   
   ul li {
     border: none !important;
