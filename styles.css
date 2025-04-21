@@ -150,6 +150,10 @@ body * {
     .links a {
       flex: 0 0 5% !important;
     }
+
+    a:hover{
+        background-color: skyblue;
+    }
   
     .home {
       text-align: center;
