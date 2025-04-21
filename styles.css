@@ -15,6 +15,7 @@ body * {
   h3,
   h4 {
     font-weight: bold;
+    font-family: 
   }
   h1{
       color: white;
@@ -31,7 +32,7 @@ body * {
     -moz-text-align: center; /*works on Firefox */
     -webkit-text-align: center; /*works on Safari and Google Chrome*/
     text-align: center;
-    background-color: #262626;
+    background-color: skyblue;
     -moz-padding: 20px; /*works on Firefox */
     -webkit-padding: 20px; /*works on Safari and Google Chrome*/
     padding: 20px;
@@ -149,10 +150,6 @@ body * {
   
     .links a {
       flex: 0 0 5% !important;
-    }
-
-    a:hover{
-        background-color: skyblue;
     }
   
     .home {
